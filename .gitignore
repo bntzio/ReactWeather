@@ -1,4 +1,5 @@
 .DS_Store
 node_modules
 *.log
+app/api/keys/openWeatherMapKey.js
 public/bundle.js
