@@ -1,0 +1,24 @@
+@import "variables";
+
+.page-title {
+  color: $title-color;
+  margin-top: $spacing-small;
+  margin-bottom: $spacing-small;
+}
+
+.top-bar {
+  background: $nav-bg-color;
+  border-bottom: 1.7px solid whitesmoke;
+
+  ul {
+    background: $nav-bg-color;
+  }
+}
+
+.menu {
+  background: $nav-bg-color;
+}
+
+input[type="search"] {
+  box-shadow: none;
+}
